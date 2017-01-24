@@ -28,22 +28,7 @@ h1 {
   text-align: center;
   top: 20%;
 }
-h3 {
-  color: rgba(255, 255, 255, 0.5);
-  float: left;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 100;
-  font-size: 14px;
-  padding-left: 10px;
-  text-transform: uppercase;
-}
-.writer-img {
-  -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
-  -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
-  box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
-  float: left;
-  width: 50px;
-}
+
 
 p {
   font-family: Georgia, Lato, sans-serif; 
