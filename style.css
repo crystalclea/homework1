@@ -28,7 +28,7 @@ h1 {
   text-align: center;
   top: 20%;
 }
-.byline {
+h3 {
   color: rgba(255, 255, 255, 0.5);
   float: left;
   font-family: 'Roboto', sans-serif;
