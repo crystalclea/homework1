@@ -28,6 +28,15 @@ h1 {
   text-align: center;
   top: 20%;
 }
+.byline {
+  color: rgba(255, 255, 255, 0.5);
+  float: left;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 14px;
+  padding-left: 10px;
+  text-transform: uppercase;
+}
 
 p {
   font-family: Georgia, Lato, sans-serif; 
