@@ -10,3 +10,6 @@ p {
   font-family: Lato, Lato, sans-serif; 
 }
 
+h1, p {
+  color: DarkSlateGray;
+}
