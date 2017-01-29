@@ -48,5 +48,9 @@ p {
   width: 50%;
 }
 
-<img align="middle">
+img {
+    display: block;
+    margin: auto;
+    width: 100%;
+}
 
