@@ -29,6 +29,14 @@ h1 {
   top: 20%;
 }
 
+h2 {
+  color: #F0A26D;
+  font-family: 'Raleway', serif;
+  font-size: 50px;
+  line-height: 32px;
+  font-weight: 105
+  
+}
 
 p {
   font-family: Georgia, Lato, sans-serif; 
