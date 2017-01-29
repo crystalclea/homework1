@@ -15,6 +15,7 @@ body {
 .header {
   background-image: url(http://passport.unl.edu/styles/hero_promo/public/passport_bannerv2.jpg?itok=V575KQQ3);
   height: 500px;
+  width: 1600px;
   background-position: center center;
 }
 
