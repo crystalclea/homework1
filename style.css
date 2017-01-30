@@ -30,11 +30,11 @@ h1 {
 }
 
 
-p {
+p,ol {
   font-family: Georgia, Lato, sans-serif; 
 }
 
-p {
+p,ol {
   color:  #41292C;
   line-height: 32px;
   font-family: 'Raleway', sans-serif;
@@ -42,7 +42,7 @@ p {
   font-weight: 100;
 }
 
-p {
+p,ol {
   margin: 0 auto;
   padding: 0;
   width: 50%;
