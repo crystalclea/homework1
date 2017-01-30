@@ -30,11 +30,11 @@ h1 {
 }
 
 
-p,ol {
+p {
   font-family: Georgia, Lato, sans-serif; 
 }
 
-p,ol {
+p {
   color:  #41292C;
   line-height: 32px;
   font-family: 'Raleway', sans-serif;
@@ -42,11 +42,30 @@ p,ol {
   font-weight: 100;
 }
 
-p,ol {
+p {
   margin: 0 auto;
   padding: 0;
   width: 50%;
 }
+
+o1 {
+  font-family: Georgia, Lato, sans-serif; 
+}
+
+o1 {
+  color:  #41292C;
+  line-height: 32px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+}
+
+o1 {
+  margin: 0 auto;
+  padding: 0;
+  width: 50%;
+}
+
 
 img {
     display: block;
