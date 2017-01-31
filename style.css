@@ -14,7 +14,8 @@ body {
 
 .header {
   background-image: url(http://i.huffpost.com/gen/1424482/images/o-AMERICAN-DREAM-facebook.jpg);
-  height: 400px;
+  background-size: cover;
+  height: 600px;
   background-position: center center;
 }
 
