@@ -1,18 +1,13 @@
 
 /* Main */
-.main {
+.header {
   text-align: center;
   background: url("http://i.huffpost.com/gen/1424482/images/o-AMERICAN-DREAM-facebook.jpg") no-repeat center center;
   background-size: cover;
   height: 600px;
 }
 
-.main .container {
-  position: relative;
-  top: 100px;
-}
-
-.main h1 {
+h1 {
   color: #fff;
   margin: 0;
   font-size: 100px;
