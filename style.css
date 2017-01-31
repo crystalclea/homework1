@@ -76,12 +76,31 @@ img {
 }
 
 
-.footer
-  background-image: url(http://america.aljazeera.com/content/ajam/opinions/2015/4/american-muslims-should-fight-islamophobia-in-2016-elections/jcr:content/headlineImage.adapt.1460.high.Muslim_Americans_US_elections_a.1429328110242.jpg);
+
+/* Footer */
+.footer {
+  background: url("http://america.aljazeera.com/content/ajam/opinions/2015/4/american-muslims-should-fight-islamophobia-in-2016-elections/jcr:content/headlineImage.adapt.1460.high.Muslim_Americans_US_elections_a.1429328110242.jpg") no-repeat center center;
   background-size: cover;
   height: 600px;
-  background-position: center center;
+  text-align: center;
 }
 
+.footer .container {
+  position: relative;
+  top: 200px;
+}
+
+.footer h2 {
+  color: #fff;
+  font-size: 40px;
+  margin: 0 0 20px 0;
+  padding:50px 0 0;
+}
+
+.footer p {
+  color: #fff;
+  font-size: 18px;
+  margin: 0 0 20px 0;
+}
 
 
