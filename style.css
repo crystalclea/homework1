@@ -75,3 +75,9 @@ img {
     width: 100%;
 }
 
+.footer {
+  background-image: url(http://i.huffpost.com/gen/1424482/images/o-AMERICAN-DREAM-facebook.jpg);
+  background-size: cover;
+  height: 600px;
+  background-position: center center;
+}
